@@ -5,7 +5,9 @@
     <img src="https://img.shields.io/badge/Maintainer-Ky9oss-red" alt="Maintainer">
     <br>
     <br>
-    <img src="resources/csharp.jpg" alt="" width="203.5" height="150.5">
+    <img src="resources/csharp.jpg" alt="" width="395.5" height="264.5">
     <br>
     <br>
 </div>
+
+Blazor-based personal website
