@@ -9,5 +9,3 @@
     <br>
     <br>
 </div>
-
-Blazor-based personal website
